@@ -1,1 +1,0 @@
-# Computational-Materials-Miniapp1-
