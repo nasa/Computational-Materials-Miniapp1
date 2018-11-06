@@ -1,7 +1,6 @@
-# Computational-Materials-Miniapp1-
 
 This mini-app is a simple test code for calculating potential energy, 
-forces and stresses of an atomistic structure using EAM potential for Al 
+forces and stresses of an atomistic structure using EAM potential for Al.
 (Mishin, Y., Farkas, D., Mehl, M.J., Papaconstantopoulos, D.A., 1999. 
 Interatomic potentials for monoatomic metals from experimental data and 
 ab initio calculations. Phys. Rev. B., 59, 3393-3407.)
